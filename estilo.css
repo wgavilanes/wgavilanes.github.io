@@ -1,0 +1,49 @@
+body {
+    margin:0;
+    
+}
+nav {
+    background-color: #16A085;
+    overflow: hidden; 
+}
+.menu {
+    text-align: center;
+}
+.menu li {
+    display: inline-block;
+}
+.menu {
+    padding: 45px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+.menu a:hover{
+    background: cornflowerblue;
+}
+.cabecera {
+    background: dimgrey;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    height: 50%;
+}
+.iconos {
+    padding: 45px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    height: 50%;
+    font-size: 30px;
+
+}
+#footer {
+    background: darkgray;
+    overflow: hidden;
+    
+}
+p {
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 75px;
+}
